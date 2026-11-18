@@ -1,4 +1,5 @@
 # BJUT北工大pcb校园卡
+BJUT北工大pcb校园卡
 基于北工大逸夫图书馆以及平乐园校区平面图所创作的PCB板校园卡。 作者测试过后发现所有功能都没有问题
 
 <img width="1920" height="1032" alt="a0f141fdcf280cb94e21e51bd14b80df" src="https://github.com/user-attachments/assets/38efd1bc-48b4-4491-bb08-e88a75262c29" />
